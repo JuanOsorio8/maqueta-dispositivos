@@ -1,0 +1,54 @@
+*{
+    width: auto;
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    background-color:teal;
+}
+
+.containerfirts{
+    color: purple;
+}
+
+.containerfirts img{
+    width: 12rem;
+}
+
+.containersecond{
+    width: 15rem;
+    color: white;
+}
+
+.containersecond h2{
+    color: purple;
+}
+
+.container1-main{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container1-main h2{
+    color: purple;
+}
+
+.container-project{
+
+}
+
+.container-project div{
+    background-color: teal;
+    width: 17rem;
+    height: 10rem;
+    margin: 0.5rem;
+    background-color: #1f1ff1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
